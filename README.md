@@ -1,10 +1,10 @@
 <p align="center">
   <a href="https://www.fab.com/listings/92f05e42-d7be-4de3-abe8-7b0a3e70ba73">
-    <img src="docs/media/hero.jpg" alt="LCM 3D Navigation AI - next-generation volumetric 3D navigation and infinite pathfinding for AI in Unreal Engine 5" width="100%">
+    <img src="docs/media/hero.jpg" alt="LCM 3D Navigation AI (LCM Nav3D) - next-generation volumetric 3D navigation and infinite pathfinding for AI in Unreal Engine 5" width="100%">
   </a>
 </p>
 
-<h1 align="center">LCM 3D Navigation AI</h1>
+<h1 align="center">LCM 3D Navigation AI (LCM Nav3D)</h1>
 
 <p align="center">
   <b>Next-generation 3D navigation for AI in Unreal Engine 5.</b><br>
@@ -35,7 +35,7 @@ Unreal Engine's navigation mesh is a map of floors. It is superb for characters 
 to a drone weaving between skyscrapers, a flock of gulls over a cliff, a school of fish in a reef, or a fighter in an
 asteroid field.
 
-**LCM 3D Navigation AI** navigates the volume itself. It builds a **sparse voxel octree (SVO) of open space** - the
+**LCM 3D Navigation AI** - **LCM Nav3D** inside the Unreal Editor - navigates the volume itself. It builds a **sparse voxel octree (SVO) of open space** - the
 empty air or water an agent can actually occupy - and plans **any-angle 3D paths** through it, so agents climb, dive
 and thread gaps that a navmesh cannot see. The same navigation runs a single hero agent or a crowd of more than ten
 thousand, and it keeps working in **infinite, streaming worlds** where the map has no edge.
@@ -113,7 +113,8 @@ Entity** editions side by side, so you can compare the three ways of driving the
 
 ## Get the demo levels
 
-1. Get **[LCM 3D Navigation AI on Fab](https://www.fab.com/listings/92f05e42-d7be-4de3-abe8-7b0a3e70ba73)** and enable it in your project.
+1. Get **[LCM 3D Navigation AI on Fab](https://www.fab.com/listings/92f05e42-d7be-4de3-abe8-7b0a3e70ba73)** and enable it in your
+   project - in the Plugins window it is **LCM Nav3D**.
 2. A project without a startup map of its own opens the **QuickStart** level - LCM 3D Navigation AI at work, nothing else needed.
 3. **LCM Nav3D menu > Demo Levels > Download and Install.** The editor downloads the latest release from this
    repository (about 0.9 GB), checks every file, installs it into `Plugins/LCMNav3DSamples` and asks for a restart.
@@ -130,6 +131,10 @@ Entity** editions side by side, so you can compare the three ways of driving the
 - About 1.3 GB of disk space for the demo levels.
 
 ## FAQ
+
+**LCM 3D Navigation AI or LCM Nav3D?**
+The same product. It is **LCM 3D Navigation AI** on Fab and **LCM Nav3D** inside the Unreal Editor - the Plugins
+window, the LCM Nav3D menu and the documentation.
 
 **Does it replace Unreal's navigation mesh?**
 No - it works alongside it. Ground characters keep using Recast; flying, swimming and free-floating agents use LCM
@@ -164,4 +169,4 @@ shipped inside the plugin. Questions are welcome on **[Discord](https://discord.
 The demo levels are for LCM 3D Navigation AI licensees, for use with LCM 3D Navigation AI, under its EULA. See
 [LICENSE](LICENSE).
 
-<p align="center"><sub>LCM 3D Navigation AI - volumetric 3D navigation, flying AI pathfinding, infinite world navigation and Mass crowds for Unreal Engine 5.</sub></p>
+<p align="center"><sub>LCM 3D Navigation AI (LCM Nav3D) - volumetric 3D navigation, flying AI pathfinding, infinite world navigation and Mass crowds for Unreal Engine 5.</sub></p>
