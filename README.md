@@ -116,7 +116,8 @@ Entity** editions side by side, so you can compare the three ways of driving the
 1. Get **[LCM 3D Navigation AI on Fab](https://www.fab.com/listings/92f05e42-d7be-4de3-abe8-7b0a3e70ba73)** and enable it in your
    project - in the Plugins window it is **LCM Nav3D**.
 2. A project without a startup map of its own opens the **QuickStart** level - LCM 3D Navigation AI at work, nothing else needed.
-3. **LCM Nav3D menu > Demo Levels > Download and Install.** The editor downloads the latest release from this
+3. **LCM Nav3D menu > Get the Demo Levels (free) > Download and Install** - or the Demo Levels card on the welcome
+   screen. The editor downloads the latest release from this
    repository (about 0.9 GB), checks every file, installs it into `Plugins/LCMNav3DSamples` and asks for a restart.
    The demo menu then opens every level. Updates and removal are in the same window.
 
