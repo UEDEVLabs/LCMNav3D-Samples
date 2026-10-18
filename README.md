@@ -167,7 +167,7 @@ shipped inside the plugin. Questions are welcome on **[Discord](https://discord.
 
 ## License
 
-The demo levels are for LCM 3D Navigation AI licensees, for use with LCM 3D Navigation AI, under its EULA. See
-[LICENSE](LICENSE).
+The demo levels are for LCM 3D Navigation AI licensees, for use with LCM 3D Navigation AI, under the Fab End User
+License Agreement that covers it. See [LICENSE](LICENSE).
 
 <p align="center"><sub>LCM 3D Navigation AI (LCM Nav3D) - volumetric 3D navigation, flying AI pathfinding, infinite world navigation and Mass crowds for Unreal Engine 5.</sub></p>
